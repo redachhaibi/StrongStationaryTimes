@@ -16,7 +16,8 @@ This repository is an implementation of strong stationary times, following the p
 
 ```
 
-In particular, ```./iynb/StrongTimes.ipynb``` samples iid realizations of two stopping times $T_M$ and $S_M$ suggested in the aforementioned paper. 
+In particular, ```./iynb/StrongTimes.ipynb``` samples iid realizations of two stopping times $T_M$ and $S_M$ suggested in the aforementioned paper. The question is whether these strong times are optimal or not, i.e how do they scale with $M$. Plots give:
+
 ![How T scales](./ipynb/T_log_mean_vs_M.png "How T scales")
 ![How S scales](./ipynb/S_log_mean_vs_M.png "How S scales")
 
