@@ -1,5 +1,9 @@
 # StrongStationaryTimes
 
+## Introduction
+
+$$ e^{i\pi} = -1 $$
+
 ## Installation
 
 1. Create new virtual environment
